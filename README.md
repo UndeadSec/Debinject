@@ -7,12 +7,12 @@ TOOL DESIGNED TO GOOD PURPOSES, PENTESTS, DON'T BE A CRIMINAL !
 
 **Only download it here, do not trust in other places.**
 
-### Cloning:
+### CLONE
 ```
 git clone https://github.com/UndeadSec/Debinject.git
 ```
 
-### Running:
+### RUNNING
 ```
 cd Debinject
 ```
@@ -37,7 +37,7 @@ chmod 755 default.deb
 dpkg -i backdoored.deb
 ```
 
-## DISCLAIMER: 
+## DISCLAIMER
 
 "DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
 FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
@@ -48,28 +48,28 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
 Taken from [LICENSE](LICENSE).
 
-### Prerequisites
+### PREREQUISITES
 
 * dpkg
 * dpkg-deb
 * metasploit
 
 
-### Tested on:
+### TESTED ON
 
 + Kali Linux - SANA
 + Kali Linux - ROLLING
 
-### Screenshot:
+### SCREENSHOT
 ![Shot](https://github.com/UndeadSec/Debinject/blob/master/Screens/sc.png)
 
 More in [Screens](Screens)
 
-### Contribute:
+### CONTRIBUTE
 Send me more features if you want it :D
 
 **I need your Help to become it to better.**
 
-## License:
+## LICENSE:
 
 This project is licensed under the BSD-3-Clause - see the [LICENSE](LICENSE) file for details.
