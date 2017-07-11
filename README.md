@@ -30,7 +30,7 @@ python2.7 debinject.py
 ### RUN ON TARGET SIDE
 
 ```
-chmod 755 default.deb
+chmod 755 backdoored.deb
 ```
 
 ```
