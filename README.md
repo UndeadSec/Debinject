@@ -1,7 +1,7 @@
 # [DEBINJECT]
 
 Copyright 2017 Debinject
-Written by: **Alisson Moretto** - [4w4k3](https://github.com/4w4k3) - [UndeadSec](https://github.com/UndeadSec)
+Written by: **Alisson Moretto** - [UndeadSec](https://github.com/UndeadSec)
 
 TOOL DESIGNED TO GOOD PURPOSES, PENTESTS, DON'T BE A CRIMINAL !
 
