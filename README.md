@@ -3,9 +3,7 @@
 Copyright 2017 Debinject
 Written by: **Alisson Moretto** - [UndeadSec](https://github.com/UndeadSec)
 
-TOOL DESIGNED TO GOOD PURPOSES, PENTESTS, DON'T BE A CRIMINAL !
-
-**Only download it here, do not trust in other places.**
+DON'T BE A CRIMMINAL!
 
 ### CLONE
 ```
@@ -19,12 +17,6 @@ cd Debinject
 
 ```
 python debinject.py
-```
-
-If you have another version of Python:
-
-```
-python2.7 debinject.py
 ```
 
 ### RUN ON TARGET SIDE
@@ -55,21 +47,7 @@ Taken from [LICENSE](LICENSE).
 * metasploit
 
 
-### TESTED ON
-
-+ Kali Linux - SANA
-+ Kali Linux - ROLLING
-
 ### SCREENSHOT
 ![Shot](https://github.com/UndeadSec/Debinject/blob/master/Screens/sc.png)
 
 More in [Screens](Screens)
-
-### CONTRIBUTE
-Send me more features if you want it :D
-
-**I need your Help to become it to better.**
-
-## LICENSE:
-
-This project is licensed under the BSD-3-Clause - see the [LICENSE](LICENSE) file for details.
