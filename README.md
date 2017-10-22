@@ -7,8 +7,6 @@ WELCOME  / BEM VINDO
 
 Select your language: / Selecione seu idioma:
 
-[PT-BR](https://github.com/UndeadSec/Lang/PTBR.md)
-![PT-BR](https://github.com/UndeadSec/Debinject/blob/master/Lang/PTBR.svg)
+[PT-BR](https://github.com/UndeadSec/Debinject/blob/master/Lang/PTBR.md)
 
-[EN](https://github.com/UndeadSec/Lang/EN.md)
-![EN](https://github.com/UndeadSec/Debinject/blob/master/Lang/EN.svg)
+[EN](https://github.com/UndeadSec/Debinject/blob/master/Lang/EN.md)
