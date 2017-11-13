@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/UndeadSec/DebinJect/master/debinject.png">
+  <img src="https://raw.githubusercontent.com/UndeadSec/Debinject/master/debinject.png">
 </p>
 <h1 align="center">Debinject</h1>
 <p align="center">
