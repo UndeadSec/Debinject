@@ -6,6 +6,11 @@
   Inject malicious code into .debs
 </p>
 
+### MAINTAINERS
+* **Alisson Moretto** | 
+Twitter: <a href="https://twitter.com/A1S0N_">@A1S0N_</a>
+Github: <a href="https://github.com/A1S0N">@A1S0N</a>
+
 ## VIDEO DEMO
 <p align="center">
 <a href="https://youtu.be/xSAJ0EiH6xM">
