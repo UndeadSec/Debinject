@@ -38,7 +38,7 @@ Github: <a href="https://github.com/A1S0N">@A1S0N</a>
 
 ## DISCLAIMER
 <p align="center">
-  JUST USE TO EDUCATIONAL PURPOSES
+  TO BE USED FOR EDUCATIONAL PURPOSES ONLY
 </p>
 
 The use of the Debinject is COMPLETE RESPONSIBILITY of the END-USER. Developer assume NO liability and are NOT responsible for any misuse or damage caused by this program.
